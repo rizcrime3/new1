@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "471380343132",
+    "firebase_url": "https://bispol-62dba.firebaseio.com",
+    "project_id": "bispol-62dba",
+    "storage_bucket": "bispol-62dba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471380343132:android:5e42ff3fcd3a4c2b",
+        "android_client_info": {
+          "package_name": "com.startup.bispoliteknik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471380343132-g5b4ignm2qam4sgqo0p2p56jact1m154.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.startup.bispoliteknik",
+            "certificate_hash": "04f3c8fb9533cd8fb23a3e6fed42d11c15231d6f"
+          }
+        },
+        {
+          "client_id": "471380343132-vtdmsrmaml5ciq9d56saeito623d2l7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjE51WzT8PD2DekERDb3KRlgG-3hE44vA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471380343132-vtdmsrmaml5ciq9d56saeito623d2l7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
